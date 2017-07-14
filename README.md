@@ -1,2 +1,2 @@
-# Ulvims
-University loan verification information management system
+# ULVS
+University Loan Verification System
