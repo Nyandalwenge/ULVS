@@ -6,7 +6,7 @@ University Loan Verification System
       .Loan Board
       .Administrator
       .System
-      User Stories       
+ User Stories       
 As a user I would be able to register Students
 As a user I would be able to register University
 As a user i would like to know how many Student can be registered  per day during registration
